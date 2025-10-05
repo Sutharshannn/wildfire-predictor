@@ -1,0 +1,230 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.5765,
+          53.9333
+        ]
+      },
+      "properties": {
+        "region": "AB",
+        "year": 2024,
+        "area_burned_ha": 719604.355673
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -127.6476,
+          53.7267
+        ]
+      },
+      "properties": {
+        "region": "BC",
+        "year": 2024,
+        "area_burned_ha": 911524.79932
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.8139,
+          53.7609
+        ]
+      },
+      "properties": {
+        "region": "MB",
+        "year": 2024,
+        "area_burned_ha": 233958.983969
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.4619,
+          46.5653
+        ]
+      },
+      "properties": {
+        "region": "NB",
+        "year": 2024,
+        "area_burned_ha": 7938.424448
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.6604,
+          53.1355
+        ]
+      },
+      "properties": {
+        "region": "NL",
+        "year": 2024,
+        "area_burned_ha": 60385.50932
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.7443,
+          44.682
+        ]
+      },
+      "properties": {
+        "region": "NS",
+        "year": 2024,
+        "area_burned_ha": 46.177906
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.8457,
+          64.8255
+        ]
+      },
+      "properties": {
+        "region": "NT",
+        "year": 2024,
+        "area_burned_ha": 1647294.00149
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.1076,
+          70.2998
+        ]
+      },
+      "properties": {
+        "region": "NU",
+        "year": 2024,
+        "area_burned_ha": 42.072809
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.3232,
+          51.2538
+        ]
+      },
+      "properties": {
+        "region": "ON",
+        "year": 2024,
+        "area_burned_ha": 79874.038884
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.0,
+          51.0
+        ]
+      },
+      "properties": {
+        "region": "PC",
+        "year": 2024,
+        "area_burned_ha": 92589.440537
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.4168,
+          46.5107
+        ]
+      },
+      "properties": {
+        "region": "PE",
+        "year": 2024,
+        "area_burned_ha": 21.051528
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5491,
+          52.9399
+        ]
+      },
+      "properties": {
+        "region": "QC",
+        "year": 2024,
+        "area_burned_ha": 208466.217566
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.4509,
+          52.9399
+        ]
+      },
+      "properties": {
+        "region": "SK",
+        "year": 2024,
+        "area_burned_ha": 760954.259178
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -135.0,
+          64.2823
+        ]
+      },
+      "properties": {
+        "region": "YT",
+        "year": 2024,
+        "area_burned_ha": 181700.081212
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.9917,
+          61.0667
+        ]
+      },
+      "properties": {
+        "region": "CANADA",
+        "year": 2024,
+        "area_burned_ha": 4904399.41384
+      }
+    }
+  ]
+}
