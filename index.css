@@ -1,0 +1,37 @@
+/* Make the app fill the window */
+html,
+body,
+#root {
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+/* Remove Vite demo constraints */
+#root {
+  display: flex;
+  flex-direction: column;
+  max-width: none;
+}
+
+/* Let the main area grow to fill space (important for Leaflet sizing) */
+main {
+  flex: 1 1 auto;
+  min-height: 0;
+}
+
+/* Leaflet map should take all available space */
+.leaflet-container {
+  height: 100%;
+  width: 100%;
+}
+
+.prov-label {
+  background: rgba(255, 255, 255, 0.85);
+  border: 1px solid #e5e7eb;
+  border-radius: 4px;
+  padding: 1px 4px;
+  font-size: 12px;
+  color: #111827;
+}
